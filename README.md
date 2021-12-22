@@ -1,4 +1,4 @@
-# dorukcanogan537project
+# World-News-Website-using-Vue.js
 
 ## Project setup
 ```
